@@ -1,0 +1,10 @@
+before select: published email live@example.com
+before PNG captured
+selected managed account; published email <nil>
+pre-fetch drained: published email <nil>; rebuilds 1
+fetch resumed with managed@example.com snapshot (17%)
+after fetch: published email managed@example.com
+hosted submenu still open after fetch: true
+parent rebuilds while submenu open: 0
+after submenu close: total parent rebuilds 2
+after PNG captured
